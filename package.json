@@ -1,0 +1,23 @@
+{
+  "name": "vaunty",
+  "version": "1.0.0",
+  "description": "An ElectonJS based personal achievements tracker application ",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bopchy/vaunty.git"
+  },
+  "author": "Bopchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bopchy/vaunty/issues"
+  },
+  "homepage": "https://github.com/Bopchy/vaunty#readme",
+  "devDependencies": {
+    "electron": "^13.1.2"
+  }
+}
